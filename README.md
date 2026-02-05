@@ -12,6 +12,9 @@
 ### [add_dockerhub_mirror.sh](https://github.com/danlylacov/linux_scripts/blob/main/add_dockerhub_mirror.sh)
 Скрипт установки зеркал для скачивания образов c DockerHub. Применять при достижении лимитов по пуллу с DockerHub.
 
+### [fast_clean_docker.sh](https://github.com/danlylacov/linux_scripts/blob/main/add_dockerhub_mirror.sh)
+Скрипт для быстрой остановки и последущего удаления контейнеров/образов/volum`ов docker
+
 
 ## Использование:
 ```bash
