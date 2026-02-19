@@ -23,7 +23,7 @@
 Системные скрипты
 
 - **[create_AppImage_icon.sh](https://github.com/danlylacov/linux_scripts/blob/main/create_AppImage_icon.sh)**  
-  Скрипт для быстрой распаковки и создания иконки в меню AppImage  
+  Скрипт для быстрой распаковки AppImage и создания иконки в меню   
 
   **Использование:**  
   ```bash
